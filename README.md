@@ -284,7 +284,7 @@ Given that step is already  fullfiled
 Do
 
 ```
-git clone https://github.com/hileamlakB/AirBnB_clone.git
+git clone https://github.com/jacobmk63/AirBnB_clone.git
 ```
 
 in any directory you want 
